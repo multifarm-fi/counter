@@ -4,6 +4,6 @@
 2-Display myNumber for the connected wallet.   
 3-Display number.  
 4-Display error message in case of unauthorized usage of setNumber()  
-5-Share the final Github repo and preview deployment of the app.
+5-The final Github repo and preview deployment of the app should be shared in private to us directly.
 
 Do not use any external APIs or backend. Everything should be done on Frontend.
